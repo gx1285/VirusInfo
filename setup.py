@@ -3,14 +3,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
     name='VirusInfo',
-    version='0.2.1',
+    version='0.2.2',
     description='Library for obtaining the number of people infected with COVID-19',
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='gx1285',
     author_email="runay2342@gmail.com",
     url="https://github.com/gx1285/VirusInfo",
-    install_requires=requests,
+    install_requires="requests",
     python_requires='>=3.8.0',
     license='MIT',
     classifiers=[
