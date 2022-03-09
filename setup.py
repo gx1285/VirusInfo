@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
   requirements = f.read().splitlines()
 setup(
     name='VirusInfo',
-    version='0.1.0',
+    version='0.2.0',
     description='Library for obtaining the number of people infected with COVID-19',
     long_description=long_description,
     long_description_content_type='text/markdown',
