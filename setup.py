@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 with open('requirements.txt') as f:
   requirements = f.read().splitlines()
 setup(
-    name='Virus-Info',
+    name='VirusInfo',
     version='0.1.0',
     description='Library for obtaining the number of people infected with COVID-19',
     long_description=long_description,
