@@ -11,6 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     author='gx1285',
     author_email="runay2342@gmail.com",
+    url="https://github.com/gx1285/VirusInfo",
     install_requires=requirements,
     python_requires='>=3.8.0',
     license='MIT',
