@@ -1,1 +1,0 @@
-from VirusInfo.VirusInfo import *
