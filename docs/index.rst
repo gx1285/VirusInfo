@@ -25,8 +25,8 @@ Congratulations. You have now completed the installation.
 
 Quickstart
 ------------
-For example, let's get the number of new Covid-19 cases in Japan on March 9, 2022.
-
+| For example, let's get the number of new Covid-19 cases in Japan on March 9, 2022.
+| (v0.3.0)
 .. code:: py
 
    import VirusInfo
