@@ -7,6 +7,7 @@ API Reference
 Version Information
 -------------
 .. data:: VirusInfo.vertion()
+    0.3.0 (March 11 2022, 20:00:00 JST)
 
 
 Covid_19
