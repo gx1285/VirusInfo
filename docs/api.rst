@@ -12,6 +12,6 @@ Version Information
 
 Covid_19
 -------------
-..date:: class VirusInfo.Covid_19.japan_Deaths(date)
+.. date:: class VirusInfo.Covid_19.japan_Deaths(date)
     Number of deaths due to Covid-19 on the date specified in date
-    .. attribute:: date
+
