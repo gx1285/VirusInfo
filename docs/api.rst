@@ -8,6 +8,7 @@ Version Information
 -------------
 .. data:: VirusInfo.vertion()
 
+
 Covid_19
 -------------
 ..date:: class VirusInfo.Covid_19.japan_Deaths(date)
