@@ -1,6 +1,22 @@
 Changelog
 =========
 
+.. _v040:
+
+v0.4.0
+------
+Deleted Features
+~~~~~~~~~~~~
+
+Delete VirusInfo.covid_19_ja().
+
+New Features
+~~~~~~~~~~~~
+
+VirusInfo.Covid_19.japan_Deaths(date)
+VirusInfo.Covid_19.japan_all()
+VirusInfo.Covid_19.castam(city,date)
+
 .. _v030:
 
 v0.3.0
