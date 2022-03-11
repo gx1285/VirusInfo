@@ -27,7 +27,7 @@ Manuals
 ------------
 `API Reference`_
 
-.. _API Reference: api.rst
+.. _API Reference: api.html
 Quickstart
 ------------
 | For example, let's get the number of new Covid-19 cases in Japan on March 9, 2022.
