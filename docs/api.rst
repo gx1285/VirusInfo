@@ -14,4 +14,7 @@ Covid_19
 -------------
 .. data:: class VirusInfo.Covid_19.japan_Deaths(date)
     Number of deaths due to Covid-19 on the date specified in date
-
+class VirusInfo.Covid_19.japan_all()
+    Latest number of new corona cases (by prefecture)
+class VirusInfo.Covid_19.castam(city, date)
+    Persons infected with new coronas on the specified dates in the specified prefectures
