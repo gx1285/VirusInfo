@@ -7,11 +7,11 @@ API Reference
 Version Information
 -------------
 .. data:: VirusInfo.vertion()
-    0.3.0 (March 11 2022, 20:00:00 JST)
+    0.4.0 (March 11 2022, 20:00:00 JST)
 
 
 Covid_19
 -------------
-.. date:: class VirusInfo.Covid_19.japan_Deaths(date)
+.. data:: class VirusInfo.Covid_19.japan_Deaths(date)
     Number of deaths due to Covid-19 on the date specified in date
 
