@@ -28,6 +28,9 @@ Manuals
 `API Reference`_
 
 .. _API Reference: api.html
+`Changelog`_
+
+.. _Changelog: changelog.html
 
 Quickstart
 ------------
