@@ -1,4 +1,4 @@
-def vertion():
-  ver = '0.4.0(March 11 2022, 20:00:00 JST)'
+def version():
+  ver = '0.4.1(March 30 2022, 20:33:00 JST)'
   print(ver)
   return ver
