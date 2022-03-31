@@ -5,3 +5,4 @@
 [![Documentation Status](https://readthedocs.org/projects/virusinfo/badge/?version=latest)](https://virusinfo.readthedocs.io/en/latest/?badge=latest)<br>
 ⚠️ v0.3.x and v0.2.x are available but deprecated.
 There is a bug that prevents accurate values from being obtained.
+<br>On pypi, it is v0.4.1, but the version will be unified with the release at v0.5.0.
