@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
     name='VirusInfo',
-    version='0.4.1',
+    version='0.5.0',
     description='Library for obtaining the number of people infected with COVID-19',
     long_description=long_description,
     long_description_content_type='text/markdown',
